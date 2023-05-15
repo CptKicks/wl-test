@@ -23,6 +23,12 @@ npm run start-dev
 npm run start
 ```
 
+# Running tests
+- Run tests using jest
+```
+npm run test
+```
+
 # Building CommonJS
 - Build app -- JS files will be generated in the dist folder
 ```
